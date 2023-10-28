@@ -1,0 +1,47 @@
+body {
+  background-image: url(./pattern.png);
+  background-repeat: repeat;
+  padding: 0;
+  margin: 0;
+}
+
+.top {
+  width: 400px;
+  margin: 10rem auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.top h2,
+h3,
+h4 {
+  font-family: "Red Hat Display", sans-serif;
+  font-weight: 700;
+}
+
+.top .date {
+  margin-top: -15px;
+}
+
+.top p {
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.middle {
+  width: 100%;
+  background-color: black;
+  padding: 80px 20px 80px 20px;
+  color: rgb(231, 203, 161);
+  text-align: center;
+  font-family: "Red Hat Display", sans-serif;
+  margin-top: -10rem;
+}
+
+.bottom {
+  width: 400px;
+  margin: 10rem auto;
+  text-align: center;
+  padding: 20px;
+  font-family: "Red Hat Display", sans-serif;
+  margin-top: 5rem;
+}
