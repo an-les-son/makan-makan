@@ -28,7 +28,7 @@ h4 {
 }
 
 .middle {
-  width: 100%;
+  width: 100vh;
   background-color: black;
   padding: 80px 20px 80px 20px;
   color: rgb(231, 203, 161);
